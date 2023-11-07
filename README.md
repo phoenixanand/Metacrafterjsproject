@@ -1,4 +1,3 @@
-# Metacrafterjsproject
 # NFTMARKETPLACE
 The project is about NFT marketplace using javascript
 
